@@ -105,8 +105,7 @@ author:
   name             : "JisungCho"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "주니어 개발자의 성장블로그 입니다."
-  location         : "Seoul"
-  email            : "jisung0509@naver.com"
+  location         : "서울시 노원구"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
